@@ -1,7 +1,7 @@
 
 # README.md
 
-# YouTube Video Fetcher API (Serri Assignment)
+# YouTube Video Fetcher API 
 
 A scalable Node.js backend API that continuously fetches the latest videos from YouTube for a given search query and provides paginated access with search functionality. Includes bonus features: multiple API key rotation, advanced search, and Dockerization.
 
